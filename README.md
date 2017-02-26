@@ -1,2 +1,2 @@
 # DiedWithoutDrop
-The MCPE Addon run on BlockLauncher
+To Protect your Item when you Died.
