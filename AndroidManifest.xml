@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="mod.by1003917294.diedwithoutdrop"
+        android:versionCode="1"
+        android:versionName="for 1.0.4.0">
+
+    <uses-permission android:name="net.zhuoweizhang.mcpelauncher.ADDON"/>
+    <uses-sdk android:minSdkVersion="9" />
+    <application android:label="Died Without Drop.BY 1003917294" android:hasCode="false">
+    <meta-data android:name="net.zhuoweizhang.mcpelauncher.api.nativelibname"
+        android:value="diedwithoutdrop"/>
+
+    <meta-data android:name="net.zhuoweizhang.mcpelauncher.api.targetmcpeversion" 
+		android:value="1.0.4.0"/>
+    </application>
+
+</manifest> 
